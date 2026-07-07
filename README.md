@@ -5,6 +5,7 @@ Students explore how to navigate the unique computational and mathematical chall
 by biological data and gain a thorough understanding of the concepts of machine learning. 
 The course covers the basics of the Python programming language as well as the Python libraries for data
 wrangling and machine learning (ex. pandas and sklearn).
+The course also provides a solid foundation necessary to advance towards topics in Artificial Intelligence. 
 
 echo "# UD-Machine-Learning-Biology" >> README.md
 git init
